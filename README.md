@@ -1,57 +1,68 @@
 # 🧑‍💻 Andres Marquez – .NET & Blazor Developer Portfolio
 
-Welcome to my software development portfolio. I'm a passionate and detail-oriented developer focused on building clean, maintainable, and scalable applications using modern technologies, especially within the .NET ecosystem.
+# 🧠 Software Development Portfolio
 
-This repository contains links and descriptions to my main full-stack projects developed in C# and ASP.NET Core, using Clean Architecture, Web APIs, Blazor WebAssembly, and more.
+Welcome to my software development portfolio! I’m a passionate and detail-oriented developer focused on building clean, maintainable, and scalable applications using modern technologies — primarily within the **.NET ecosystem**.
+
+This repository contains links and summaries of my main full-stack projects, developed with **C#**, **ASP.NET Core**, **Clean Architecture**, **Web APIs**, and **Blazor WebAssembly**, among others.
 
 ---
 
-## 📁 Projects
+## 📁 Featured Projects
 
 ### 1. ReportManager.CleanArchitecture.CrudOnly
 
-> A Clean Architecture project implementing basic CRUD operations using ASP.NET Core Web API and Entity Framework Core.
+> A Clean Architecture project that implements basic CRUD operations using ASP.NET Core Web API and Entity Framework Core.
 
-- **Backend:** ASP.NET Core 7, Entity Framework Core, SQL Server
-- **Architecture:** Clean Architecture (Domain, Application, Infrastructure, WebAPI layers)
-- **Features:**  
-  - Full separation of concerns  
+- **Tech Stack:** ASP.NET Core 8, Entity Framework Core, SQL Server  
+- **Architecture:** Clean Architecture (Domain, Application, Infrastructure, WebAPI)  
+- **Highlights:**  
+  - Clear separation of concerns  
   - Repository & Unit of Work patterns  
-  - API Controllers with proper dependency injection  
-- **Future scope:** Could be extended with authentication and frontend integration.
+  - Clean API controllers with dependency injection  
+- **Potential Improvements:** Authentication and frontend integration in future iterations
 
-🔗 [Go to Repository](https://github.com/andresmarz/ReportManager.CleanArchitecture.CrudOnly)
+🔗 [View Repository](https://github.com/andresmarz/ReportManager.CleanArchitecture.CrudOnly)
 
 ---
 
 ### 2. ReportManager.CleanArchitecture.CrudAndJWT
 
-> An advanced version of the previous project, adding user authentication using JWT.
+> An extended version of the previous project, adding secure authentication and authorization using JWT.
 
-- **Backend:** ASP.NET Core 7, Entity Framework Core, SQL Server
-- **Authentication:** JSON Web Tokens (JWT), ASP.NET Identity
-- **Architecture:** Clean Architecture
-- **Features:**  
-  - Secure login and token-based authentication  
-  - Role-based authorization  
-  - Full CRUD with protected endpoints  
+- **Tech Stack:** ASP.NET Core 8, Entity Framework Core, SQL Server  
+- **Authentication:** ASP.NET Identity with JWT (JSON Web Tokens)  
+- **Architecture:** Clean Architecture  
+- **Highlights:**  
+  - Secure login with token-based authentication  
+  - Role-based access control  
+  - Protected CRUD endpoints  
 
-🔗 [Go to Repository](https://github.com/andresmarz/ReportManager.CleanArchitecture.CrudAndJWT)
+🔗 [View Repository](https://github.com/andresmarz/ReportManager.CleanArchitecture.CrudAndJWT)
 
 ---
 
-## 🚧 Upcoming Projects
+## 🔧 In Progress / Coming Soon
 
-I'm currently working on more complex scenarios using:
-- **Microservices
-- **Blazor WebAssembly** (WASM)
-- **Export to Excel/PDF**
-- **REST API integration**
-- **Clean Architecture with Frontend + Backend separation**
-- **Advanced filters, paginated tables, and report generation**
-- **Docker & Azure (coming soon)**
+I'm actively working on more advanced and realistic enterprise-level solutions, including:
 
-These projects will be uploaded as they are completed.
+- ✅ **Microservices** with **Clean Architecture** and **RESTful communication**
+- ⏳ Asynchronous communication using **Messaging/Brokers (e.g., RabbitMQ or Kafka)**
+- 🔍 Unit and integration testing with **xUnit**
+- 🐳 Containerization with **Docker** and orchestration via **Kubernetes**
+- 🎨 Frontend integration with **Blazor WebAssembly** and possibly other SPA frameworks
+- 📄 Advanced features like:
+  - Export to Excel/PDF
+  - Complex filtering and pagination
+  - Rich reporting capabilities
+  - Secure API Gateway & Authentication strategies
+
+All upcoming projects will be uploaded progressively as development continues.
+
+---
+
+📫 **Let’s connect!**  
+Feel free to explore my repositories and reach out if you'd like to discuss software architecture, .NET development, or any collaborative opportunity.
 
 ---
 
