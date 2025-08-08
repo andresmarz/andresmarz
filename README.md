@@ -45,35 +45,35 @@ This repository contains links and summaries of my main full-stack projects, dev
 ### 3. Microservices.CleanArchitecture.RestCommunication
 > A real-world microservices architecture using Clean Architecture and HTTP communication via HttpClient.
 
-- ** Tech Stack: ASP.NET Core 8, Entity Framework Core, SQL Server
+- **Tech Stack:** ASP.NET Core 8, Entity Framework Core, SQL Server
 
-- ** Architecture: Clean Architecture applied to each microservice
+- **Architecture:** Clean Architecture applied to each microservice
 
-- **Microservices:
+- **Microservices:**
 
-- Catalog Service: Product management with full CRUD
+  - Catalog Service: Product management with full CRUD
 
-- Ordering Service: Order management with full CRUD and external product validation via REST
+  - Ordering Service: Order management with full CRUD and external product validation via REST
 
-- **Highlights:
+- **Highlights:**
 
-- Functional and independent CRUD in each microservice
+  - Functional and independent CRUD in each microservice
 
-- HTTP-based communication between services using HttpClient
+  - HTTP-based communication between services using HttpClient
 
-- Clear separation of internal logic and external service contracts (DTOs/External)
+  - Clear separation of internal logic and external service contracts (DTOs/External)
 
-- Strong adherence to Clean Architecture principles
+  - Strong adherence to Clean Architecture principles
 
-- **Future Enhancements:
+- **Future Enhancements:**
 
-- Asynchronous communication (e.g., messaging via RabbitMQ)
+  - Asynchronous communication (e.g., messaging via RabbitMQ)
 
-- Containerization with Docker
+  - Containerization with Docker
 
-- Unit testing with xUnit
+  - Unit testing with xUnit
 
-- Service orchestration with Kubernetes
+  - Service orchestration with Kubernetes
 
 🔗 [View Repository](https://github.com/andresmarz/MicroservicesApp)
 
