@@ -83,10 +83,9 @@ This repository contains links and summaries of my main full-stack projects, dev
 
 I'm actively working on more advanced and realistic enterprise-level solutions, including:
 
-- ✅ **Microservices** with **Clean Architecture** and **RESTful communication**
+- 🐳 Containerization with **Docker** and orchestration via **Kubernetes**
 - ⏳ Asynchronous communication using **Messaging/Brokers (e.g., RabbitMQ or Kafka)**
 - 🔍 Unit and integration testing with **xUnit**
-- 🐳 Containerization with **Docker** and orchestration via **Kubernetes**
 - 🎨 Frontend integration with **Blazor WebAssembly** and possibly other SPA frameworks
 - 📄 Advanced features like:
   - Export to Excel/PDF
