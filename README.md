@@ -85,7 +85,7 @@ I'm actively working on more advanced and realistic enterprise-level solutions, 
 
 - 🐳 Containerization with **Docker** and orchestration via **Kubernetes**
 - ⏳ Asynchronous communication using **Messaging/Brokers (e.g., RabbitMQ or Kafka)**
-- Projects with AI
+- Projects with Python and AI
 - 🔍 Unit and integration testing with **xUnit**
 - 🎨 Frontend integration with **Blazor WebAssembly** and possibly other SPA frameworks like Angular and React
 - 📄 Advanced features like:
