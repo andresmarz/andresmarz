@@ -1,17 +1,14 @@
-# 🧑‍💻 Andres Marquez – .NET & Blazor Developer Portfolio
+# 👋 Hi, I'm Andres Marquez  
 
-# 🧠 Software Development Portfolio
-
-Welcome to my software development portfolio! I’m a passionate and detail-oriented developer focused on building clean, maintainable, and scalable applications using modern technologies — primarily within the **.NET ecosystem**.
-
-This repository contains links and summaries of my main full-stack projects, developed with **C#**, **ASP.NET Core**, **Clean Architecture**, **Web APIs**, and **Blazor WebAssembly**, among others.
+Welcome to my GitHub!  
+Here you’ll find a collection of projects that represent my learning journey in **.NET**, **Clean Architecture**, **Microservices**, and beyond.  
+I focus on building professional, well-structured applications while continuously improving my skills in modern technologies.
 
 ---
 
 ## 📁 Featured Projects
 
 ### 1. ReportManager.CleanArchitecture.CrudOnly
-
 > A Clean Architecture project that implements basic CRUD operations using ASP.NET Core Web API and Entity Framework Core.
 
 - **Tech Stack:** ASP.NET Core 8, Entity Framework Core, SQL Server  
@@ -20,14 +17,13 @@ This repository contains links and summaries of my main full-stack projects, dev
   - Clear separation of concerns  
   - Repository & Unit of Work patterns  
   - Clean API controllers with dependency injection  
-- **Potential Improvements:** Authentication and frontend integration in future iterations
+- **Potential Improvements:** Authentication and frontend integration in future iterations  
 
 🔗 [View Repository](https://github.com/andresmarz/ReportManager.CleanArchitecture.CrudOnly)
 
 ---
 
 ### 2. ReportManager.CleanArchitecture.CrudAndJWT
-
 > An extended version of the previous project, adding secure authentication and authorization using JWT.
 
 - **Tech Stack:** ASP.NET Core 8, Entity Framework Core, SQL Server  
@@ -42,75 +38,60 @@ This repository contains links and summaries of my main full-stack projects, dev
 
 ---
 
-### 3. Microservices.CleanArchitecture.RestCommunication
-> A real-world microservices architecture using Clean Architecture and HTTP communication via HttpClient.
+### 3. MicroservicesApp.TwoServicesWithCleanCRUDs
+> Two microservices (`CatalogService` and `OrderingService`) built with **ASP.NET Core 8** using **Clean Architecture**.  
+Each service implements its own CRUD operations and database.
 
-- **Tech Stack:** ASP.NET Core 8, Entity Framework Core, SQL Server
+- **Tech Stack:** ASP.NET Core 8, Entity Framework Core, SQL Server  
+- **Highlights:** Independent microservices with isolated databases and clean separation of concerns  
 
-- **Architecture:** Clean Architecture applied to each microservice
-
-- **Microservices:**
-
-  - Catalog Service: Product management with full CRUD
-
-  - Ordering Service: Order management with full CRUD and external product validation via REST
-
-- **Highlights:**
-
-  - Functional and independent CRUD in each microservice
-
-  - HTTP-based communication between services using HttpClient
-
-  - Clear separation of internal logic and external service contracts (DTOs/External)
-
-  - Strong adherence to Clean Architecture principles
-
-- **Future Enhancements:**
-
-  - Asynchronous communication (e.g., messaging via RabbitMQ)
-
-  - Containerization with Docker
-
-  - Unit testing with xUnit
-
-  - Service orchestration with Kubernetes
-
-🔗 [View Repository](https://github.com/andresmarz/MicroservicesApp)
-
-
-
-## 🔧 In Progress / Coming Soon
-
-I'm actively working on more advanced and realistic enterprise-level solutions, including:
-
-- 🐳 Containerization with **Docker** and orchestration via **Kubernetes**
-- ⏳ Asynchronous communication using **Messaging/Brokers (e.g., RabbitMQ or Kafka)**
-- Projects with Python and AI, OpenAI Services Consumption
-- 🔍 Unit and integration testing with **xUnit**
-- 🎨 Frontend integration with **Blazor WebAssembly** and possibly other SPA frameworks like Angular and React
-- 📄 Advanced features like:
-  - Export to Excel/PDF
-  - Complex filtering and pagination
-  - Rich reporting capabilities
-  - Secure API Gateway & Authentication strategies
-
-All upcoming projects will be uploaded progressively as development continues.
+🔗 [View Repository](https://github.com/andresmarz/MicroservicesApp.TwoServicesWithCleanCRUDs)
 
 ---
 
-📫 **Let’s connect!**  
-Feel free to explore my repositories and reach out if you'd like to discuss software architecture, .NET development, or any collaborative opportunity.
+### 4. MicroservicesApp.RESTCommunicationBetweenTwoMicroservices
+> Extends the previous step by enabling **REST communication** between microservices.  
+The Ordering service queries product data from the Catalog API.
+
+- **Tech Stack:** ASP.NET Core 8, Entity Framework Core, HttpClient  
+- **Highlights:** Demonstrates synchronous communication between microservices  
+
+🔗 [View Repository](https://github.com/andresmarz/MicroservicesApp.RESTCommunicationBetweenTwoMicroservices)
 
 ---
 
-## 📫 Contact
+### 5. MicroservicesApp.DockerizedRESTCommunicationBetweenTwoMicroservices
+> Dockerized version of the REST communication project.  
+Both services and their databases run inside containers orchestrated with **Docker Compose**.
 
-Feel free to reach out or connect:
+- **Tech Stack:** ASP.NET Core 8, Entity Framework Core, SQL Server, Docker & Docker Compose  
+- **Highlights:** REST communication inside a Docker network, fully containerized microservices  
 
-- 📧 andresmarquezzuleta@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/gustavomarquezzuleta/)  
-- 💻 [GitHub](https://github.com/andresmarz)
+🔗 [View Repository](https://github.com/andresmarz/MicroservicesApp.DockerizedRESTCommunicationBetweenTwoMicroservices)
 
 ---
 
-Thanks for visiting!
+### 6. MicroservicesApp.DockerComposeAndRabbitMQ
+> Adds **asynchronous communication** between services using **RabbitMQ**.  
+The Catalog and Ordering services publish and consume events through a message broker.
+
+- **Tech Stack:** ASP.NET Core 8, Entity Framework Core, SQL Server, Docker & Docker Compose, RabbitMQ, MassTransit  
+- **Highlights:** Event-driven architecture with RabbitMQ, REST communication preserved as fallback  
+
+🔗 [View Repository](https://github.com/andresmarz/MicroservicesApp.DockerComposeAndRabbitMQ)
+
+---
+
+## 🚀 Next Steps
+I’m expanding my knowledge into:  
+- **Python** for AI and Data Science  
+- **Azure & CI/CD pipelines** for cloud deployments  
+- **Kubernetes** for container orchestration  
+
+Stay tuned for upcoming repositories!  
+
+---
+
+## 📫 Connect
+- GitHub: [@andresmarz](https://github.com/andresmarz)  
+- LinkedIn: https://www.linkedin.com/in/gustavomarquezzuleta/
