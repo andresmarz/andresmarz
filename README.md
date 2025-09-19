@@ -84,7 +84,8 @@ The Catalog and Ordering services publish and consume events through a message b
 
 ## 🚀 Next Steps
 I’m expanding my knowledge into:  
-- **Python** for Generative AI (LLM, SLM, RAG, etc...) and Data Science  
+- **Python** for Generative AI (LLM, SLM, RAG, etc...) and Data Science
+- **Python** for Machine Learning, Computer Vision, etc...  
 - **Azure & CI/CD pipelines** for cloud deployments  
 - **Kubernetes** for container orchestration  
 
