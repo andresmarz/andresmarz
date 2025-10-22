@@ -82,11 +82,14 @@ The Catalog and Ordering services publish and consume events through a message b
 
 ---
 
+### 7. Github Actions for CI/CD, Github Pages
+> Uploaded my personl site to Github Pages using CI/CD, you can find the site here!:  
+https://andresmarz.github.io/PersonalWebsite
+
 ## 🚀 Next Steps
 I’m expanding my knowledge into:  
 - **Python** for Generative AI (LLM, SLM, RAG, etc...) and Data Science
 - **Python** for Machine Learning, Computer Vision, etc...
-- Github Actions for CI/CD, Github Pages for uploading my personal site: https://andresmarz.github.io/PersonalWebsite
 - **Azure & CI/CD pipelines** for cloud deployments  
 - **Kubernetes** for container orchestration  
 
