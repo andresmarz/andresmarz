@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Andres Marquez  
 
 Welcome to my GitHub!  
-Here you’ll find a collection of projects that represent my learning journey in **.NET**, **Full-Stack projects**, **Clean Architecture and other architectures like MVC, Monolitic and Microservices**,**JWT**, **APIs REST**, **REST and RabbitMQ for Synchronous and Asynchronous messaging**, **CI/CD**, **Azure**, **Python**, **AI** and beyond.  
+Here you’ll find a collection of projects that represent my learning journey in **.NET**, **Full-Stack projects**, **Clean Architecture and other architectures like MVC, Monolitic and Microservices**,**JWT**, **APIs REST**, **REST and RabbitMQ for Synchronous and Asynchronous messaging**, **XUnit and TDD**, **CI/CD**, **Azure**, **Python**, **AI** and beyond.  
 I focus on building professional, well-structured applications while continuously improving my skills in modern technologies.
 
 ---
