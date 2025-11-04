@@ -88,7 +88,7 @@ https://andresmarz.github.io/PersonalWebsite
 
 ## 🚀 Next Steps
 I’m expanding my knowledge into:  
-- **XUnit** for unit testing and TDD
+- **XUnit** for unit testing and TDD (Test-Driven Development)
 - **Python** for Generative AI (LLM, SLM, RAG, etc...) and Data Science
 - **Python** for Machine Learning, Computer Vision, etc...
 - **Azure & CI/CD pipelines** for cloud deployments  
