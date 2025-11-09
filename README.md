@@ -89,9 +89,9 @@ https://andresmarz.github.io/PersonalWebsite
 ## 🚀 Next Steps
 I’m expanding my knowledge into:  
 - **XUnit** for unit testing and TDD (Test-Driven Development)
+- **Azure & CI/CD pipelines** for cloud deployments  
 - **Python** for Generative AI (LLM, SLM, RAG, etc...) and Data Science
 - **Python** for Machine Learning, Computer Vision, etc...
-- **Azure & CI/CD pipelines** for cloud deployments  
 - **Kubernetes** for container orchestration  
 
 Stay tuned for upcoming repositories!  
