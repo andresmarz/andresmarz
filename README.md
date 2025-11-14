@@ -83,7 +83,7 @@ The Catalog and Ordering services publish and consume events through a message b
 ---
 
 ### 7. Github Actions for CI/CD, Github Pages
-> Uploaded my personl site to Github Pages using CI/CD, you can find the site here!:  
+> Uploaded my personal site to Github Pages using CI/CD, you can find the site here!:  
 https://andresmarz.github.io/PersonalWebsite
 
 ## 🚀 Next Steps
