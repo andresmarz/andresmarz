@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Andres Gustavo Marquez Zuleta
 
-Welcome to my GitHub!. 
+Welcome to my GitHub profile!. 
 Here you’ll find a collection of projects that represent my learning journey in **.NET**, **Back-End projects**, **Front-End projects**, **Full-Stack projects**, **Architectures like Monolitic, MVC, Clean Architecture and Microservices**,**JWT**, **APIs REST**, **REST and RabbitMQ for Synchronous and Asynchronous messaging**, **Testing with XUnit and TDD**, **CI/CD**, **Azure**, **Python**, **AI** and beyond.
 I focus on building professional, well-structured applications while continuously improving my skills in modern technologies.
 
